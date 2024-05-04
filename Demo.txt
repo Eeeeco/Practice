@@ -1,1 +1,3 @@
 Learning Version Control System
+
+Next day training classes for removing null values
